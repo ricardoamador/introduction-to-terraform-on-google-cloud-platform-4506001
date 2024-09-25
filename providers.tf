@@ -1,4 +1,3 @@
-# providers file
 provider "google" {
   project = "terraformlearning-435903"
   region  = "us-west1"
